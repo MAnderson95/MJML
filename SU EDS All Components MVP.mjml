@@ -1,0 +1,1357 @@
+<mjml lang="en">
+  <mj-head>
+    <mj-breakpoint width="480px" />
+    <mj-attributes>
+      <mj-section padding="0" />
+      <mj-column padding="0" />
+      <mj-navbar-link color="#262626" font-size="11px" padding="20px 7% 16px 7%" />
+      <mj-text css-class="textlink-hover" font-family="Arial,sans serif;" line-height="22px" font-size="16px" color="#262626" />
+      <mj-button css-class="text-hover" font-size="16px" font-weight="bold" background-color="#009CDE" border-radius="3px" />
+    </mj-attributes>
+    <mj-style inline="inline"> a { color: #0076A8; font-weight: bold; text-decoration: none;} h1 {font-size: 34px; line-height: 40px; color: #212322; font-weight: bold; margin: 0 0 15px 0;} h2 {font-size: 30px; line-height: 36px; color: #212322; font-weight: bold; margin: 0 0 15px 0;} h3 {font-size: 26px; line-height: 30px; color: #212322; font-weight: bold; margin: 0 0 15px 0;} h4 {font-size: 22px; line-height: 25px; color: #212322; font-weight: bold; margin: 0;} h5 {font-size: 18px; line-height: 25px; color: #212322; font-weight: bold; margin: 0 0 15px 0;} h6 {font-size: 18px; line-height: 25px; color: #212322; font-weight: regular; } </mj-style>
+    <mj-style> .blue { color: #009CDE; } .white { color: #FFFFFF !important; } a:hover { text-decoration: underline !important; } .textlink-hover a:hover { text-decoration: underline !important; color: #00577B !important; } .textlink-hover-white a:hover { text-decoration: underline !important; color: #FFFFFF !important; } .hovered a:hover { background: #0076A8 !important; text-decoration: none !important; color: #FFFFFF !important; } .ghostbtn a:hover { background: #0076A8 !important; color: #FFFFFF !important; border: 0px #0076A8 solid !important; text-decoration: none !important; } .text-box td.textlink-hover, .text-box td td.hovered, .text-box td.ghostbtn{ padding-left: 15px !important; padding-right:15px !important; } .sidebar-bullets { margin:0; padding: 25px 0 5px 0; } .icon-group table table td{ padding: 5px !important; } .referral table table td{ padding: 0px !important; margin:0px !important; width:90px !important; } @media (max-width:600px) { .mhidden, .mhidden table { display: none; width: 0%; border: 0px !important; } .mcenter div { text-align: center !important; } .background-image, .background-image table { background-position: top left !important; } .buttoncenter, .buttoncenter table{ text-align: center !important; margin-left: auto !important; margin-right:auto !important; } .signature-image{ width: 32% !important; } .signature{ width: 68% !important; } } @media (min-width:601px) { .dhidden { display: none; width: 0% !important; border: 0px !important; } } </mj-style>
+  </mj-head>
+  <mj-body background-color="#FFFFFF">
+    <!-- Delete description -->
+    <mj-section>
+      <mj-column>
+        <mj-text padding="10px 0px 0px 20px" font-size="10px" color="gray"><em>S-1.1 Preaheader</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Delete description -->
+    <!-- S-1.1 Preheader BEGIN -->
+    <mj-section css-class="mhidden" background-color="#FFFFFF">
+      <mj-group>
+        <mj-column width="40%">
+          <mj-text line-height="15px" align="left" font-size="12px" line-height="15px" color="#53565A">
+            <a href="https://www.strayer.edu/"><span style="color:#53565A;font-weight:normal;text-decoration:underline;">Insert Preview Text</span></a>. </mj-text>
+        </mj-column>
+        <mj-column width="60%">
+          <mj-text line-height="15px" align="right" font-size="12px" color="#53565A" text-decoration="underline">
+            <a href="http://app.learning.strayeruniversity.edu/e/es?s=~~eloqua..type--emailfield..syntax--siteid..encodeFor--url~~&e=~~eloqua..type--emailfield..syntax--elqemailsaveguid..encodeFor--url~~" name="ViewOnline"><span style="color:#53565A;font-weight:normal;text-decoration:underline;">View in browser</span></a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- S-1.1 Preheader END -->
+    <!-- Delete description -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="30px" />
+        <mj-text padding="10px 0px 0px 20px" font-size="10px" color="gray"><em>S-1.2 Brand Bar variations</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Delete description -->
+    <!-- S-1.2 Brand Bar - White BEGIN  -->
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-image alt="Strayer University" href="https://www.strayer.edu/" width="151px" padding="28px" align="center" src="http://images.learning.strayeruniversity.edu/EloquaImages/clients/StrayerEducation/%7B107fccbe-8f57-4fb2-bbf2-b8e4ab7e5e08%7D_strayer_logo_horizontal_440x100.png">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.2 Brand Bar - White END -->
+    <!-- S-1.2 Brand Bar - Slate BEGIN  -->
+    <mj-section background-color="#53565A">
+      <mj-column>
+        <mj-image alt="Strayer University" href="https://www.strayer.edu/" width="151px" padding="28px" align="center" src="http://images.learning.strayeruniversity.edu/EloquaImages/clients/StrayerEducation/%7Bed374859-d7f5-4a5b-afc2-74d28500f92a%7D_strayer_white_453x99_3x.png">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.2 Brand Bar - Slate END -->
+    <!-- S-1.2 Brand Bar - University Black BEGIN  -->
+    <mj-section background-color="#262626">
+      <mj-column>
+        <mj-image alt="Strayer University" href="https://www.strayer.edu/" width="151px" padding="28px" align="center" src="http://images.learning.strayeruniversity.edu/EloquaImages/clients/StrayerEducation/%7Bed374859-d7f5-4a5b-afc2-74d28500f92a%7D_strayer_white_453x99_3x.png">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.2 Brand Bar - University Black END -->
+    <!-- S-1.2 Brand Bar - New School Blue BEGIN  -->
+    <mj-section background-color="#009CDE">
+      <mj-column>
+        <mj-image alt="Strayer University" href="https://www.strayer.edu/" width="151px" padding="28px" align="center" src="http://images.learning.strayeruniversity.edu/EloquaImages/clients/StrayerEducation/%7Bed374859-d7f5-4a5b-afc2-74d28500f92a%7D_strayer_white_453x99_3x.png">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.2 Brand Bar - New School Blue END -->
+    <!-- Delete description -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="30px" />
+        <mj-text padding="10px 0px 0px 20px" font-size="10px" color="gray"><em>S-1.3 Nav Bar variations</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Delete description -->
+    <!-- S-1.3 Nav Bar - White BEGIN -->
+    <mj-section background-color="#FFFFFF">
+      <mj-column>
+        <mj-navbar>
+          <mj-navbar-link href="">Chat</mj-navbar-link>
+          <mj-navbar-link href="https://application.strayer.edu/">Apply</mj-navbar-link>
+          <mj-navbar-link href="tel:8774457180">Call</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.3 Nav Bar - White END -->
+    <!-- S-1.3 Nav Bar - Slate BEGIN -->
+    <mj-section background-color="#53565A">
+      <mj-column>
+        <mj-navbar>
+          <mj-navbar-link color="#FFFFFF" href="">Chat</mj-navbar-link>
+          <mj-navbar-link color="#FFFFFF" href="https://application.strayer.edu/">Apply</mj-navbar-link>
+          <mj-navbar-link color="#FFFFFF" href="tel:8774457180">Call</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.3 Nav Bar - Slate END -->
+    <!-- S-1.3 Nav Bar - University Black BEGIN -->
+    <mj-section background-color="#262626">
+      <mj-column>
+        <mj-navbar>
+          <mj-navbar-link color="#FFFFFF" href="">Chat</mj-navbar-link>
+          <mj-navbar-link color="#FFFFFF" href="https://application.strayer.edu/">Apply</mj-navbar-link>
+          <mj-navbar-link color="#FFFFFF" href="tel:8774457180">Call</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.3 Nav Bar - University Black END -->
+    <!-- S-1.3 Nav Bar - Blue BEGIN -->
+    <mj-section background-color="#0076A8">
+      <mj-column>
+        <mj-navbar>
+          <mj-navbar-link color="#FFFFFF" href="">Chat</mj-navbar-link>
+          <mj-navbar-link color="#FFFFFF" href="https://application.strayer.edu/">Apply</mj-navbar-link>
+          <mj-navbar-link color="#FFFFFF" href="tel:8774457180">Call</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.3 Nav Bar - Blue END -->
+    <!-- S-1.3 Nav Bar - Light Gray BEGIN -->
+    <mj-section background-color="#F0F0EF">
+      <mj-column>
+        <mj-navbar>
+          <mj-navbar-link href="">Chat</mj-navbar-link>
+          <mj-navbar-link href="https://application.strayer.edu/">Apply</mj-navbar-link>
+          <mj-navbar-link href="tel:8774457180">Call</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.3 Nav Bar - Light Gray END -->
+    <!-- S-1.3 Nav Bar - White U-NSB Bar BEGIN -->
+    <mj-section background-color="#FFFFFF">
+      <mj-column border-bottom="10px #009CDE solid">
+        <mj-navbar>
+          <mj-navbar-link padding-bottom="6px" href="">Chat</mj-navbar-link>
+          <mj-navbar-link padding-bottom="6px" href="https://application.strayer.edu/">Apply</mj-navbar-link>
+          <mj-navbar-link padding-bottom="6px" href="tel:8774457180">Call</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.3 Nav Bar - White U-NSB Bar END -->
+    <!-- Delete description -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="30px" />
+        <mj-text padding="10px 0px 0px 20px" font-size="10px" color="gray"><em>S-1.4 Alert Bar variations</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Delete description -->
+    <!-- S-1.4 Alert Bar - University Black BEGIN -->
+    <mj-section padding="10px 3.34%" background-color="#262626">
+      <mj-column>
+        <mj-text color="#FFFFFF" font-size="14px" line-height="19px" align="center">Save on your degree when you enroll for fall quarter. <a href="https://application.strayer.edu/"><span style="color:#FFFFFF;"><u>Apply now</u></span></a>.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.4 Alert Bar - University Black BEGIN -->
+    <!-- S-1.4 Alert Bar - University Gray BEGIN -->
+    <mj-section padding="10px 3.34%" background-color="#D9D9D8">
+      <mj-column>
+        <mj-text color="#212322" font-size="14px" line-height="19px" align="center">Save on your degree when you enroll for fall quarter. <a href="https://application.strayer.edu/"><span style="color:#212322;"><u>Apply now</u></span></a>.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.4 Alert Bar - University Gray BEGIN -->
+    <!-- S-1.4 Alert Bar - New School Blue BEGIN -->
+    <mj-section padding="10px 3.34%" background-color="#009CDE">
+      <mj-column>
+        <mj-text color="#FFFFFF" font-size="14px" line-height="19px" align="center">Save on your degree when you enroll for fall quarter. <a href="https://application.strayer.edu/"><span style="color:#FFFFFF;"><u>Apply now</u></span></a>.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.4 Alert Bar - New School Blue BEGIN -->
+    <!-- BEGIN S-1.5 Body Text -->
+    <mj-section css-class="text-box">
+      <mj-column padding="3.34%">
+        <mj-text>
+          <h1>Enim labore cupidatat tempor sunt.</h1>
+          <br />
+          <p>Pariatur nisi non consectetur labore minim nostrud eu tempor. Incididunt occaecat nisi nostrud Lorem sint. Eiusmod deserunt duis officia non.<br /><br /> Non commodo ex ipsum eu dolor <a href="https://www.strayer.edu/">minim enim quis irure</a> ut eu. Amet nulla dolore Lorem nostrud sit dolor. Consectetur culpa veniam incididunt Lorem duis commodo excepteur eu nisi fugiat cupidatat culpa laborum commodo. Quis velit labore occaecat duis est. <em>Eu aute aliquip</em> proident commodo ea eiusmod id. Aliquip quis occaecat et elit. <br /><br />
+            <strong>Esse mollit incididunt et velit qui cillum enim.</strong><br /> Lorem ipsum veniam sit id deserunt ea commodo consequat.</p>
+        </mj-text>
+        <mj-button css-class="hovered" href="https://www.strayer.edu" padding-top="30px" align="left"> Active state </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.5 Body Copy Text END -->
+    <!-- Delete description -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="30px" />
+        <mj-text padding="10px 0px 0px 20px" font-size="10px" color="gray"><em>Disclaimer</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Delete description -->
+    <!-- BEGIN Disclaimer -->
+    <mj-section>
+      <mj-column padding-left="3.34%" padding="0">
+        <mj-text line-height="16px" font-size="13px">
+          <em>
+            <p>*Sit quis incididunt amet duis pariatur velit officia consectetur non aliquip ea ex elit sint. In qui quis ut exercitation enim commodo proident officia.</p>
+            <p>Et in voluptate dolor minim pariatur Lorem commodo in amet culpa nisi culpa. Ullamco sit commodo veniam nulla quis fugiat est id adipisicing deserunt amet eiusmod. Mollit duis adipisicing pariatur in ullamco ea aliqua. Magna reprehenderit occaecat deserunt aliquip do.</p>
+          </em>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END Disclaimer -->
+    <!-- Delete description -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="30px" />
+        <mj-text padding="10px 0px 0px 20px" font-size="10px" color="gray"><em>S-1.6 Hero Image variations</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Delete description -->
+    <!-- S-1.6 Standard hero / desktop / photo large BEGIN -->
+    <mj-section>
+      <mj-column>
+        <mj-image padding="0" src="https://www.placehold.it/600x350" href="#?elqTrackId=&elqTrack=true" alt="" padding-bottom="10px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.6 Standard hero / desktop / photo large END -->
+    <!-- S-1.6 Standard hero / desktop / background gray title CTA BEGIN -->
+    <mj-section css-class="mhidden">
+      <mj-column background-color="#F5F5F5" width="77.5%">
+        <mj-spacer height="30px" />
+      </mj-column>
+      <mj-column background-color="#FFFFFF" width="22.5%">
+        <mj-spacer height="30px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F5F5F5">
+      <mj-column padding="1% 3.34%">
+        <mj-text align="left">
+          <h1>Onsectetur adipiscing elit, sed do </h1>
+        </mj-text>
+        <mj-button css-class="hovered m-16gray-pd" href="https://www.strayer.edu" align="left"> Active state </mj-button>
+        <mj-spacer css-class="dhidden" height="30px" />
+      </mj-column>
+      <mj-column padding="0">
+        <mj-image padding="0" src="https://www.placehold.it/600x550" alt="" fluid-on-mobile="true"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mhidden">
+      <mj-column background-color="#F5F5F5" width="77.5%">
+        <mj-spacer height="30px" />
+      </mj-column>
+      <mj-column background-color="#FFFFFF" width="22.5%">
+        <mj-spacer height="30px" />
+      </mj-column>
+    </mj-section>
+    <!-- S-1.6 Standard hero / background gray body copy END -->
+    <!-- S-1.6 Standard hero / background gray body copy BEGIN -->
+    <mj-section css-class="mhidden">
+      <mj-column background-color="#F5F5F5" width="77.5%">
+        <mj-spacer height="30px" />
+      </mj-column>
+      <mj-column background-color="#FFFFFF" width="22.5%">
+        <mj-spacer height="30px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F5F5F5">
+      <mj-column padding="1% 3.34%">
+        <mj-text css-class="m-16gray-pd" align="left">
+          <h1>Onsectetur adipiscing elit, sed do</h1> Onsectetur adipiscing elit, sed do eiusmod Onsectetur adipiscing elit, sed do Onsectetur adipiscing.
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image padding="0" src="https://www.placehold.it/600x550" alt="" fluid-on-mobile="true"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mhidden">
+      <mj-column background-color="#F5F5F5" width="77.5%">
+        <mj-spacer height="30px" />
+      </mj-column>
+      <mj-column background-color="#FFFFFF" width="22.5%">
+        <mj-spacer height="30px" />
+      </mj-column>
+    </mj-section>
+    <!-- S-1.6 Standard hero / background gray body copy END -->
+    <!-- S-1.6 Standard hero / headline first BEGIN -->
+    <mj-section>
+      <mj-column padding="12px 3.34%">
+        <mj-text>
+          <h1>Become a Strayer studentócomplete your enrollment today</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-hero vertical-align="middle" mode="fixed-height" height="230px" background-width="600px" background-height="230px" background-url="https://images.elqassets.strategiced.com/EloquaImages/clients/SEIEloqua/%7B12234c11-27f4-4804-9216-39a094d10188%7D_3a_image.JPG" background-color="#D8D8D8" padding="0px">
+    </mj-hero>
+    <!-- S-1.6 Standard hero / headline first END -->
+    <!-- S-1.6 Standard hero / side x side BEGIN -->
+    <mj-section>
+      <mj-column padding="0% 3.34%">
+        <mj-text>
+          <h1 class="blue">Yes, you can afford a degree</h1><br />
+          <p>{FIRST NAME},<br /><br /> Paying for your degree is straightforward at Strayer, Like how you can save up to 25% on the cost of your bachelor's or master's degree with ther Strayer Graduation Fund.</p>
+        </mj-text>
+        <mj-button css-class="hovered" href="https://www.strayer.edu" padding-top="10px" padding-bottom="30px" align="left"> Active state </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image padding="0" src="https://www.placehold.it/300x430" alt=""></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.6 Standard hero / side x side photo L END -->
+    <!-- S-1.6 Standard hero / side x side photo L BEGIN -->
+    <mj-section>
+      <mj-column padding="0% 3.34%">
+        <mj-text>
+          <h1 class="blue">Yes, you can afford a degree</h1><br />
+          <p>{FIRST NAME},<br /><br /> Paying for your degree is straightforward at Strayer, Like how you can save up to 25% on the cost of your bachelor's or master's degree with ther Strayer Graduation Fund.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image padding="0" src="https://www.placehold.it/300x400" alt=""></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image padding="0" src="https://www.placehold.it/600x50" alt=""></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.6 Standard hero / side x side END -->
+    <!-- S-1.6 Standard hero / NSB overlap BEGIN -->
+    <mj-section>
+      <mj-column>
+        <mj-image padding="0" src="https://www.placehold.it/1200x464" alt=""></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-group>
+        <mj-column padding="3.34%" width="78%" background-color="#4AADE2">
+          <mj-text align="left">
+            <h1 style="color:#ffffff; margin-bottom:0;">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium</h1>
+          </mj-text>
+          <mj-button css-class="ghostbtn" href="https://www.strayer.edu" align="left" border="1px #FFFFFF solid" color="#0076A8" background-color="#FFFFFF"> Active State </mj-button>
+        </mj-column>
+        <mj-column width="22%" background-color="#FFFFFF">
+          <mj-image padding="0" src="https://www.placehold.it/264x286"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- S-1.6 Standard hero / NSB overlap END -->
+    <!-- S-1.6 Standard hero / photo nsb cta BEGIN -->
+    <mj-section>
+      <mj-column>
+        <mj-image padding="0" src="https://www.placehold.it/600x250" alt=""></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#4AADE2">
+      <mj-column width="68%" padding="18px 3.34% 0px" background-color="#4AADE2">
+        <mj-text css-class="mcenter" align="left">
+          <h1 style="color:#ffffff;">Two lines of copy at the most</h1>
+        </mj-text>
+      </mj-column>
+      <mj-column vertical-align="middle" padding="0" width="32%">
+        <mj-spacer css-class="mhidden" height="45px" />
+        <mj-button padding="0px 0px 30px" css-class="ghostbtn" href="https://www.strayer.edu" align="center" border="1px #FFFFFF solid" color="#FFFFFF" background-color="#4AADE2"> Active State </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.6 Standard hero / photo nsb cta -->
+    <!-- S-1.6 Standard hero / side bar BEGIN -->
+    <mj-section>
+      <mj-column>
+        <mj-image padding="0" src="https://www.placehold.it/600x250" alt=""></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="65%" padding="12px 3.34%" padding-bottom="12px">
+        <mj-text>
+          <h1 class="#009CDE">Become a Strayer student today</h1>
+        </mj-text>
+      </mj-column>
+      <mj-column width="28%" background-color="#FFFFFF" inner-background-color="#F5F5F5" border-top="8px solid #F3D03E">
+        <mj-text padding="15px 20px" align="center"><span style="font-size:14px;line-height:19px;color:#2E3230;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.</span></mj-text>
+      </mj-column>
+      <mj-column width="7%"></mj-column>
+    </mj-section>
+    <!-- S-1.6 Standard hero / side bar END -->
+    <!-- S-1.6 Standard hero / side bar icon BEGIN -->
+    <mj-section>
+      <mj-column>
+        <mj-image padding="0" src="https://www.placehold.it/600x250" alt=""></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="65%" padding="12px 3.34%" padding-bottom="12px">
+        <mj-text>
+          <h1 class="#009CDE">Become a Strayer student today</h1>
+        </mj-text>
+      </mj-column>
+      <!--//Possibly using inner-background color and media query to create white padding on mobile? -->
+      <mj-column width="28%" background-color="#FFFFFF" inner-background-color="#F5F5F5" border-top="8px solid #F3D03E">
+        <mj-raw>
+          <!-- BEGIN Outlook ignore this section -->
+          <!--[if !mso]><!-->
+        </mj-raw>
+        <mj-image padding="15px 5px 5px" width="44px" src="https://www.capella.edu/content/dam/capella/email/2020/strayer/10Skills_S.png" href="#?elqTrackId=&elqTrack=true" alt="alt text here" width="75px" align="center"></mj-image>
+        <mj-raw>
+          <!--<![endif]-->
+          <!-- END Outlook ignore this section -->
+        </mj-raw>
+        <mj-text padding="15px 20px" align="center"><span style="font-size:14px;line-height:19px;color:#2E3230;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.</span></mj-text>
+      </mj-column>
+      <mj-column width="7%"></mj-column>
+    </mj-section>
+    <!-- S-1.6 Standard hero / side bar icon END -->
+    <!-- S-1.6 Standard hero / side bar bullets BEGIN -->
+    <mj-section>
+      <mj-column>
+        <mj-image padding="0" src="https://www.placehold.it/600x250" alt=""></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="65%" padding="12px 3.34%" padding-bottom="12px">
+        <mj-text>
+          <h1 class="#009CDE">Become a Strayer student today</h1>
+        </mj-text>
+      </mj-column>
+      <mj-column width="28%" background-color="#FFFFFF" inner-background-color="#F5F5F5" border-top="8px solid #F3D03E">
+        <mj-text padding="15px 20px" align="center">
+          <h2 class="sidebar-bullets" style="margin-bottom:0;padding-top:10px;">12345</h2> subcopy <h2 class="sidebar-bullets" style="margin-bottom:0;padding-top:10px;">#</h2> subcopy <h2 class="sidebar-bullets" style="margin-bottom:0;padding-top:10px;">#</h2> subcopy
+        </mj-text>
+      </mj-column>
+      <mj-column width="7%"></mj-column>
+    </mj-section>
+    <!-- S-1.6 Standard hero / side bar bullets END -->
+    <!-- S-1.6 Copy Over Image BEGIN-->
+    <mj-hero background-url="https://www.placehold.it/600x350" background-color="#D8D8D8" vertical-align="middle" mode="fixed-height" height="350px" background-height="350px" background-width="600px" padding="30px">
+      <mj-text padding="0% 3.34%" color="#FFFFFF" align="center">
+        <h3 class="white">Onsectetur adipiscing elit,<br class="mhidden" /> sed do eiusmod</h3><br />
+        <span style="font-size:16px;line-height:20px;">At vero accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti</span>
+        <p style="padding-top:10px;"><span class="textlink-hover-white"><a href="#?elqTrackId=&elqTrack=true"><span style="color:white;font-weight:bold;">Primary Text Link</span><img src="https://images.elqassets.strategiced.com/EloquaImages/clients/SEIEloqua/%7Beef3188e-219d-4a81-89bf-881428b1cfa9%7D_arrow_right_white_28x28.png" alt="" style="vertical-align:middle;padding-left: 5px;" /></a></span></p>
+      </mj-text>
+      <mj-button padding-top="25px" css-class="ghostbtn" href="https://www.strayer.edu" align="center" border="1px #009CDE solid" color="#0076A8" background-color="#FFFFFF"> CTA Button </mj-button>
+    </mj-hero>
+    <!-- S-1.6 Copy Over Image END -->
+    <!-- S-1.6 hero 1a - image sliced BEGIN -->
+    <mj-section>
+      <mj-column>
+        <mj-image padding="0" src="https://www.placehold.it/600x340" alt=""></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-group>
+        <mj-column width="8%" background-color="#FFFFFF">
+          <mj-image padding="0" src="https://www.placehold.it/94x330"></mj-image>
+        </mj-column>
+        <mj-column vertical-align="bottom" width="92%" background-color="#ffffff">
+          <mj-text align="left" padding="2% 3.34% 3.34% 7%" font-size="40px" line-height="44px" font-weight="bold">
+            <h1><span class="blue">Emphasized words</span><br class="mhidden" /> rest of headline copy</h1>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- S-1.6 hero 1a - image sliced END -->
+    <!-- S-1.6 hero 1b - image sliced BEGIN -->
+    <mj-section>
+      <mj-column>
+        <mj-image padding="0" src="https://www.placehold.it/600x335" alt=""></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-group>
+        <mj-column width="7.5%">
+          <mj-image padding="0" src="https://www.placehold.it/45x40"></mj-image>
+        </mj-column>
+        <mj-column width="85%" background-color="#ffffff">
+          <mj-text align="center">
+            <h1 style="padding:5% 3.34% 0%;">Onsectetur adipiscing elit,<br class="mhidden" /> sed do eiusmod</h1>
+          </mj-text>
+          <mj-button padding="25px 10px 35px" css-class="hovered" href="https://www.strayer.edu" align="center"> Active state </mj-button>
+        </mj-column>
+        <mj-column width="7.5%">
+          <mj-image padding="0" src="https://www.placehold.it/45x40"> </mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- S-1.6 hero 1b - image sliced END -->
+    <!-- S-1.6 hero 1b - image sliced BEGIN -->
+    <mj-section>
+      <mj-column>
+        <mj-image padding="0" src="https://www.placehold.it/600x335" alt=""></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-group>
+        <mj-column width="7.5%">
+          <mj-image padding="0" src="https://www.placehold.it/45x40"></mj-image>
+        </mj-column>
+        <mj-column width="85%" background-color="#F5F5F5">
+          <mj-text align="center">
+            <h1 style="padding:5% 3.34% 0%;">Onsectetur adipiscing elit,<br class="mhidden" /> sed do eiusmod</h1>
+          </mj-text>
+          <mj-button padding="25px 10px 35px" css-class="hovered" href="https://www.strayer.edu" align="center"> Active state </mj-button>
+        </mj-column>
+        <mj-column width="7.5%">
+          <mj-image padding="0" src="https://www.placehold.it/45x40"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- S-1.6 hero 1b - image sliced END -->
+    <!-- S-1.6 hero 4b BEGIN -->
+    <mj-section background-url="https://images.elqassets.strategiced.com/EloquaImages/clients/SEIEloqua/%7B12234c11-27f4-4804-9216-39a094d10188%7D_3a_image.JPG" background-color="#D8D8D8" background-size="600px" background-repeat="no-repeat">
+      <mj-column width="390px">
+        <!-- Update spacer height based on hero height -->
+        <mj-spacer height="233px" />
+      </mj-column>
+      <mj-column width="168px" vertical-align="bottom" border-top="8px solid #F3D03E" background-color="#F5F5F5">
+        <mj-image width="150px" src="https://www.capella.edu/content/dam/capella/email/2020/strayer/demba_logo_185x52.png" padding="44px 18px 15px"></mj-image>
+      </mj-column>
+      <mj-column width="7%">
+      </mj-column>
+    </mj-section>
+    <mj-section direction="rtl">
+      <mj-group width="35%">
+        <!--//Possibly using inner-background color and media query to create white padding on mobile? -->
+        <mj-column width="80%" background-color="#FFFFFF" inner-background-color="#F5F5F5" css-class="fullwidth">
+          <mj-text padding="15px 20px" align="center"><span style="font-size:14px;line-height:19px;color:#2E3230;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed.</span></mj-text>
+        </mj-column>
+        <mj-column width="20%" css-class="mhidden"></mj-column>
+      </mj-group>
+      <mj-column width="65%" padding="12px 3.34%" padding-bottom="12px">
+        <mj-text>
+          <h1 class="blue">Become a Strayer student today</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.6 hero 4b END -->
+    <!-- Delete description -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="30px" />
+        <mj-text padding="10px 0px 0px 20px" font-size="10px" color="gray"><em>S-1.7 Signature variations</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Delete description -->
+    <!-- S-1.7 Signature BEGIN -->
+    <mj-section padding="3.34%">
+      <mj-column>
+        <mj-image src="https://www.placehold.it/175x39" align="left" width="175px"></mj-image>
+        <mj-text font-weight="bold" font-size="14px" line-height="16px" color="#212322"> First and Last Name<br /> He/Him, She/Her, They/Them<br /> Title, Department | <span class="blue">Strayer University</span><br /><br /> T: 507-301-9713 </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- S 1.7 Signature END -->
+    <!-- S-1.7 Signature / standard outlook hand written signature BEGIN -->
+    <mj-section padding="3.34%">
+      <mj-column>
+        <mj-image width="124px" src="https://www.placehold.it/124x45" align="left"></mj-image>
+        <mj-text font-weight="bold" font-size="14px" line-height="16px" color="#212322"> John Doe<br /> Academic Officer | <span class="blue">Strayer University</span>
+          <br /><br /> T: 507-301-9713 </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- S 1.7 Signature END -->
+    <!-- S-1.7 Signature / standard outlook headshot BEGIN -->
+    <mj-section padding="3.34%">
+      <mj-group>
+        <mj-column width="15.33%" css-class="signature-image">
+          <mj-image padding="0" src="https://www.placehold.it/60x60" width="60px" align="right"> </mj-image>
+        </mj-column>
+        <mj-column width="84.67%" css-class="signature">
+          <mj-text font-weight="bold" font-size="14px" line-height="16px" color="#212322"> John Doe<br /> Academic Officer |<br class="dhidden" /> <span class="blue">Strayer University</span>
+            <br /><br /> T: 507-301-9713 </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- S 1.7 Signature END -->
+    <!-- Delete description -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="30px" />
+        <mj-text padding="10px 0px 0px 20px" font-size="10px" color="gray"><em>S-2.1 Body Video</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Delete description -->
+    <!-- S-2.1 Body video BEGIN -->
+    <mj-section>
+      <mj-column>
+        <mj-image padding="0" src="https://www.capella.edu/content/dam/capella/email/2020/strayer/video_play.jpg" href="#?elqTrackId=&elqTrack=true" alt=""></mj-image>
+        <mj-text line-height="18px" vertical-align="middle" padding-top="10px">
+          <a href="#?elqTrackId=&elqTrack=true"><img src="https://www.capella.edu/content/dam/capella/email/2020/strayer/transcript.png" alt="transcript icon" style="padding: 0px 10px; vertical-align:bottom;" />View Transcript</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- S-2.1 Body video END -->
+    <!-- Delete description -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="30px" />
+        <mj-text padding="10px 0px 0px 20px" font-size="10px" color="gray"><em>S-2.2 Body Image</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Delete description -->
+    <!-- S-2.2 Body image BEGIN -->
+    <mj-section>
+      <mj-column>
+        <mj-image padding="0" src="https://www.placehold.it/600x350" href="#?elqTrackId=&elqTrack=true" alt="" padding-bottom="10px"></mj-image>
+        <mj-text>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- S-2.2 Body image END -->
+    <!-- Delete description -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="30px" />
+        <mj-text padding="10px 0px 0px 20px" font-size="10px" color="gray"><em>Checklist</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Delete description -->
+    <!-- Begin Dynamic Checklist -->
+    <mj-section background-color="#F0F0EF">
+      <mj-column>
+        <mj-text align="center" padding="20px 20px 0px">
+          <h2>Activities to complete enrollment</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F0F0EF" padding="20px">
+      <mj-group>
+        <mj-column>
+          <!-- image 1 -->
+          <mj-image href="https://bemore.strayer.edu/enroll-now?elqTrackId=&elqTrack=true" padding="3px" src="https://www.capella.edu/content/dam/capella/email/2020/strayer/icon_ID_unchecked_081120.png" alt="Upload your Photo ID" width="131px" />
+          <!-- end image 1 -->
+        </mj-column>
+        <mj-column>
+          <!-- image 2 -->
+          <mj-image href="https://bemore.strayer.edu/enroll-now?elqTrackId=&elqTrack=true" padding="3px" src="https://www.capella.edu/content/dam/capella/email/2020/strayer/icon_verify_unchecked_081120.png" alt="Verify previous education" width="131px" />
+          <!-- end image 2 -->
+        </mj-column>
+      </mj-group>
+      <mj-group>
+        <mj-column>
+          <!-- image 3 -->
+          <mj-image href="https://bemore.strayer.edu/enroll-now?elqTrackId=&elqTrack=true" padding="3px" src="https://www.capella.edu/content/dam/capella/email/2020/strayer/icon_payment_unchecked_081120.png" alt="Choose a payment method" width="131px" />
+          <!-- end image 3 -->
+        </mj-column>
+        <mj-column>
+          <!-- image 4 -->
+          <mj-image href="https://bemore.strayer.edu/enroll-now?elqTrackId=&elqTrack=true" padding="3px" src="https://www.capella.edu/content/dam/capella/email/2020/strayer/icon_admissions_unchecked_081120.png" alt="Connect with an admission officer" width="131px" />
+          <!-- end image 4 -->
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- End Dynamic Checklist -->
+    <!-- Delete description -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="30px" />
+        <mj-text padding="10px 0px 0px 20px" font-size="10px" color="gray"><em>S-2.4 Icon Title Text variations</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Delete description -->
+    <!--  S-2.4 Icon Title Text / centered -->
+    <!-- icon section 1 -->
+    <mj-section>
+      <mj-column padding="3.34%" width="60%">
+        <mj-image src="https://www.capella.edu/content/dam/capella/email/2020/strayer/10Skills_S.png" href="#?elqTrackId=&elqTrack=true" alt="alt text here" width="60px" align="center"></mj-image>
+        <mj-text align="center">
+          <h4>Lorem ipsum dolor sit</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End icon section 1 -->
+    <!-- icon section 2 -->
+    <mj-section>
+      <mj-column padding="3.34%" width="60%">
+        <mj-image src="https://www.capella.edu/content/dam/capella/email/2020/strayer/10SkillsGettingResults_S.png" href="#?elqTrackId=&elqTrack=true" alt="alt text here" width="60px" align="center"></mj-image>
+        <mj-text align="center">
+          <h4>Lorem ipsum dolor sit</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End icon section 2 -->
+    <!-- icon section 3 -->
+    <mj-section>
+      <mj-column padding="3.34%" width="60%">
+        <mj-image src="https://www.capella.edu/content/dam/capella/email/2020/strayer/10SkillsCommunicationSkills_S.png" href="#?elqTrackId=&elqTrack=true" alt="alt text here" width="60px" align="center"></mj-image>
+        <mj-text align="center">
+          <h4>Lorem ipsum dolor sit</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End icon section 3 -->
+    <!-- S-2.4 Icon Title Text / centered END-->
+    <!--  BEGIN S-2.4 Icon Title Text / centered / CTA -->
+    <!-- icon section 1 -->
+    <mj-section>
+      <mj-column padding="3.34%" width="60%">
+        <mj-image src="https://www.capella.edu/content/dam/capella/email/2020/strayer/10Skills_S.png" href="#?elqTrackId=&elqTrack=true" alt="alt text here" width="60px" align="center"></mj-image>
+        <mj-text align="center">
+          <h4>Lorem ipsum dolor sit</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor.</p>
+          <a href="#?elqTrackId=&elqTrack=true">Primary Text Link <img src="https://www.capella.edu/content/dam/capella/email/2020/strayer/right_arrow_nsb_1x.png" alt="" style="vertical-align:middle;padding-left: 5px;" /></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End icon section 1 -->
+    <!-- icon section 2 -->
+    <mj-section>
+      <mj-column padding="3.34%" width="60%">
+        <mj-image src="https://www.capella.edu/content/dam/capella/email/2020/strayer/10SkillsGettingResults_S.png" href="#?elqTrackId=&elqTrack=true" alt="alt text here" width="60px" align="center"></mj-image>
+        <mj-text align="center">
+          <h4>Lorem ipsum dolor sit</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor.</p>
+          <a href="#?elqTrackId=&elqTrack=true">Primary Text Link <img src="https://www.capella.edu/content/dam/capella/email/2020/strayer/right_arrow_nsb_1x.png" alt="" style="vertical-align:middle;padding-left: 5px;" /></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End icon section 2 -->
+    <!-- icon section 3 -->
+    <mj-section>
+      <mj-column padding="3.34%" width="60%">
+        <mj-image src="https://www.capella.edu/content/dam/capella/email/2020/strayer/10SkillsCommunicationSkills_S.png" href="#?elqTrackId=&elqTrack=true" alt="alt text here" width="60px" align="center"></mj-image>
+        <mj-text align="center">
+          <h4>Lorem ipsum dolor sit</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor.</p>
+          <a href="#?elqTrackId=&elqTrack=true">Primary Text Link <img src="https://www.capella.edu/content/dam/capella/email/2020/strayer/right_arrow_nsb_1x.png" alt="" style="vertical-align:middle;padding-left: 5px;" /></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End icon section 3 -->
+    <!-- S-2.4 Icon Title Text / centered / CTA END  -->
+    <!--  BEGIN S-2.4 Icon Title Text / left aligned -->
+    <mj-section css-class="icon-group">
+      <mj-group>
+        <mj-column padding="3.34%" width="25%" vertical-align="top">
+          <mj-image src="https://www.capella.edu/content/dam/capella/email/2020/strayer/10Skills_S.png" href="#?elqTrackId=&elqTrack=true" href="#?elqTrackId=&elqTrack=true" alt="alt text here" width="75px" align="center"></mj-image>
+        </mj-column>
+        <mj-column padding="3.34%" width="75%" vertical-align="middle">
+          <mj-text>
+            <h4>Lorem ipsum dolor sit</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor.</p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section css-class="icon-group">
+      <mj-group>
+        <mj-column padding="3.34%" width="25%" vertical-align="top">
+          <mj-image src="https://www.capella.edu/content/dam/capella/email/2020/strayer/10SkillsGettingResults_S.png" href="#?elqTrackId=&elqTrack=true" href="#?elqTrackId=&elqTrack=true" alt="alt text here" width="75px" align="center"></mj-image>
+        </mj-column>
+        <mj-column padding="3.34%" width="75%" vertical-align="middle">
+          <mj-text>
+            <h4>Lorem ipsum dolor sit</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor.</p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- S-2.4 Icon Title Text / left aligned END -->
+    <!--  BEGIN S-2.4 Icon Title Text / left aligned / CTA -->
+    <mj-section css-class="icon-group">
+      <mj-group>
+        <mj-column padding="3.34%" width="25%" vertical-align="top">
+          <mj-image src="https://www.capella.edu/content/dam/capella/email/2020/strayer/10Skills_S.png" href="#?elqTrackId=&elqTrack=true" href="#?elqTrackId=&elqTrack=true" alt="alt text here" width="75px" align="center"></mj-image>
+        </mj-column>
+        <mj-column padding="3.34%" width="75%" vertical-align="top">
+          <mj-text>
+            <h4>Lorem ipsum dolor sit</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor.</p>
+            <a href="#?elqTrackId=&elqTrack=true">Primary Text Link <img src="https://www.capella.edu/content/dam/capella/email/2020/strayer/right_arrow_nsb_1x.png" alt="" style="vertical-align:middle;padding-left: 5px;" /></a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section css-class="icon-group">
+      <mj-group>
+        <mj-column padding="3.34%" width="25%" vertical-align="top">
+          <mj-image src="https://www.capella.edu/content/dam/capella/email/2020/strayer/10SkillsGettingResults_S.png" href="#?elqTrackId=&elqTrack=true" href="#?elqTrackId=&elqTrack=true" alt="alt text here" width="75px" align="center"></mj-image>
+        </mj-column>
+        <mj-column padding="3.34%" width="75%" vertical-align="top">
+          <mj-text>
+            <h4>Lorem ipsum dolor sit</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor.</p>
+            <a href="#?elqTrackId=&elqTrack=true">Primary Text Link <img src="https://www.capella.edu/content/dam/capella/email/2020/strayer/right_arrow_nsb_1x.png" alt="" style="vertical-align:middle;padding-left: 5px;" /></a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- S-2.4 Icon Title Text / left aligned / CTA END -->
+    <!-- S-2.4 Icon Title Text / tombstone slate BEGIN -->
+    <mj-section background-size="600px" background-url="https://images.elqassets.strategiced.com/EloquaImages/clients/SEIEloqua/%7B46cad898-04db-4fb2-a16c-2ef5e0b581fe%7D_75948_Auto_laptop_600x95.png" background-repeat="no-repeat">
+      <mj-column>
+        <mj-text height="75px"></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0" background-color="#53565A">
+      <mj-column width="80%" padding-bottom="40px">
+        <mj-text color="white">
+          <h3 style="color:white;">Headline</h3> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- S-2.4 Icon Title Text / tombstone slate END -->
+    <!-- S-2.4 Icon Title Text / tombstone black BEGIN -->
+    <mj-section background-size="600px" background-url="https://www.capella.edu/content/dam/capella/email/2020/strayer/univblack_icon_600x108.png" background-repeat="no-repeat">
+      <mj-column>
+        <mj-text height="85px"></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#212322">
+      <mj-column width="80%" padding-bottom="40px">
+        <mj-text color="white">
+          <h3 style="color:white;">Headline</h3> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- S-2.4 Icon Title Text / tombstone black END -->
+    <!--  BEGIN 2.4c Icon Title Text / Centered -->
+    <!-- icon section 1 -->
+    <mj-section>
+      <mj-column padding="10px 0" width="33%">
+        <mj-image src="https://www.capella.edu/content/dam/capella/email/2020/strayer/10Skills_S.png" href="#?elqTrackId=&elqTrack=true" alt="alt text here" width="60px" align="center"></mj-image>
+        <mj-text align="center">
+          <h4>Lorem ipsum dolor sit</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor.</p>
+        </mj-text>
+      </mj-column>
+      <!-- End icon section 1 -->
+      <!-- icon section 2 -->
+      <mj-column padding="10px 0" width="33%">
+        <mj-image src="https://www.capella.edu/content/dam/capella/email/2020/strayer/10SkillsGettingResults_S.png" href="#?elqTrackId=&elqTrack=true" alt="alt text here" width="60px" align="center"></mj-image>
+        <mj-text align="center">
+          <h4>Lorem ipsum dolor sit</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor.</p>
+        </mj-text>
+      </mj-column>
+      <!-- End icon section 2 -->
+      <!-- icon section 3 -->
+      <mj-column padding="10px 0" width="33%">
+        <mj-image src="https://www.capella.edu/content/dam/capella/email/2020/strayer/10SkillsCommunicationSkills_S.png" href="#?elqTrackId=&elqTrack=true" alt="alt text here" width="60px" align="center"></mj-image>
+        <mj-text align="center">
+          <h4>Lorem ipsum dolor sit</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End icon section 3 -->
+    <!-- END 2.4c Icon Title Text / Centered -->
+    <!--  BEGIN 2.4c Icon Title Text / Left -->
+    <!-- icon section 1 -->
+    <mj-section>
+      <mj-column padding="10px 0" width="33%">
+        <mj-image src="https://www.capella.edu/content/dam/capella/email/2020/strayer/10Skills_S.png" href="#?elqTrackId=&elqTrack=true" alt="alt text here" width="60px" align="left"></mj-image>
+        <mj-text align="left">
+          <h4>Lorem ipsum dolor sit</h4>
+          <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+        </mj-text>
+      </mj-column>
+      <!-- End icon section 1 -->
+      <!-- icon section 2 -->
+      <mj-column padding="10px 0" width="33%">
+        <mj-image src="https://www.capella.edu/content/dam/capella/email/2020/strayer/10SkillsGettingResults_S.png" href="#?elqTrackId=&elqTrack=true" alt="alt text here" width="60px" align="left"></mj-image>
+        <mj-text align="left">
+          <h4>Lorem ipsum dolor sit</h4>
+          <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+        </mj-text>
+      </mj-column>
+      <!-- End icon section 2 -->
+      <!-- icon section 3 -->
+      <mj-column padding="10px 0" width="33%">
+        <mj-image src="https://www.capella.edu/content/dam/capella/email/2020/strayer/10SkillsCommunicationSkills_S.png" href="#?elqTrackId=&elqTrack=true" alt="alt text here" width="60px" align="left"></mj-image>
+        <mj-text align="left">
+          <h4>Lorem ipsum dolor sit</h4>
+          <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End icon section 3 -->
+    <!-- END 2.4c Icon Title Text / Left -->
+    <!-- Delete description -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="30px" />
+        <mj-text padding="10px 0px 0px 20px" font-size="10px" color="gray"><em>S-2.5 Image CTA variations</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Delete description -->
+    <!--  BEGIN S-2.5 Image CTA feature / sideXside -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://www.placehold.it/250x240" href="#?elqTrackId=&elqTrack=true" alt="Alt text here"></mj-image>
+        <mj-text>
+          <h3>Lorem ipsum dolor sit amet consectetur</h3>
+          <h5>Lorem ipsum dolor sit </h5>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor. Lorem ipsum.</p>
+        </mj-text>
+        <mj-button css-class="hovered" href="https://www.strayer.edu" align="left"> Active state </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://www.placehold.it/250x240" href="#?elqTrackId=&elqTrack=true" alt="Alt text here"></mj-image>
+        <mj-text>
+          <h3>Lorem ipsum dolor sit amet consectetur</h3>
+          <h5>Lorem ipsum dolor sit </h5>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor. Lorem ipsum.</p>
+        </mj-text>
+        <mj-button css-class="hovered" href="https://www.strayer.edu" align="left"> Active state </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- END S-2.5 Image CTA feature / sideXside -->
+    <!--  BEGIN S-2.5 Image CTA feature / stack -->
+    <!--  BEGIN stack 1 -->
+    <mj-section padding="15px 0">
+      <mj-column vertical-align="middle" padding="0">
+        <mj-image src="https://www.placehold.it/250x240" href="#?elqTrackId=&elqTrack=true" alt="Alt text here"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text>
+          <h3>Lorem ipsum dolor sit amet consectetur</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor.</p>
+        </mj-text>
+        <mj-button css-class="hovered" href="https://www.strayer.edu" align="left"> Active state </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- END stack 1 -->
+    <!--  BEGIN stack 2 -->
+    <mj-section direction="rtl" padding="15px 0">
+      <mj-column vertical-align="middle" padding="0">
+        <mj-image src="https://www.placehold.it/250x240" href="#?elqTrackId=&elqTrack=true" alt="Alt text here"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text>
+          <h3>Lorem ipsum dolor sit amet consectetur</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor.</p>
+        </mj-text>
+        <mj-button css-class="hovered" href="https://www.strayer.edu" align="left"> Active state </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- END stack 2 -->
+    <!-- END S-2.5 Image CTA feature / stack -->
+    <!-- Delete description -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="30px" />
+        <mj-text padding="10px 0px 0px 20px" font-size="10px" color="gray"><em>S-2.6 Title Text CTA</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Delete description -->
+    <!--  BEGINS -2.6 Title Text CTA / left / white -->
+    <mj-section css-class="text-box">
+      <mj-column padding="3.34%">
+        <mj-text>
+          <h2>Lorem ipsum dolor sit amet consectetur</h2>
+          <h5>Lorem ipsum dolor sit </h5>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor. Lorem ipsum.</p>
+        </mj-text>
+        <mj-button css-class="hovered" href="https://www.strayer.edu?elqTrackId=&elqTrack=true" align="left"> Active state </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- END S-2.6 Title Text CTA / left / white -->
+    <!--  BEGIN 2.6a Title Text CTA / left / light gray -->
+    <mj-section background-color="#D9D9D9" css-class="text-box">
+      <mj-column padding="3.34%">
+        <mj-text>
+          <h2>Lorem ipsum dolor sit amet consectetur</h2>
+          <h5>Lorem ipsum dolor sit </h5>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor. Lorem ipsum.</p>
+        </mj-text>
+        <mj-button css-class="hovered" href="https://www.strayer.edu?elqTrackId=&elqTrack=true" align="left"> Active state </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- END 2.6 Title Text CTA / left / light gray -->
+    <!--  BEGIN 2.6 Title Text CTA / left / NSB -->
+    <mj-section background-color="#009CDE" css-class="text-box">
+      <mj-column padding="3.34%">
+        <mj-text>
+          <h2 class="white">Lorem ipsum dolor sit amet consectetur</h2>
+          <h5 class="white">Lorem ipsum dolor sit </h5>
+          <p class="white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor. Lorem ipsum.</p>
+        </mj-text>
+        <mj-button css-class="ghostbtn" border="1px #009CDE solid" color="#0076A8" background-color="#FFFFFF" href="https://www.strayer.edu" align="left"> Active state </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- END 2.6 Title Text CTA / left / NSB -->
+    <!--  BEGIN 2.6 Title Text CTA / left / dark gray -->
+    <mj-section background-color="#75787B" css-class="text-box">
+      <mj-column padding="3.34%">
+        <mj-text>
+          <h2 class="white">Lorem ipsum dolor sit amet consectetur</h2>
+          <h5 class="white">Lorem ipsum dolor sit </h5>
+          <p class="white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor. Lorem ipsum.</p>
+        </mj-text>
+        <mj-button css-class="ghostbtn" border="1px #009CDE solid" color="#0076A8" background-color="#FFFFFF" href="https://www.strayer.edu?elqTrackId=&elqTrack=true" align="left"> Active state </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- END 2.6 Title Text CTA / left / dark gray -->
+    <!--  BEGIN 2.6 Title Text CTA / left / slate -->
+    <mj-section background-color="#53565A" css-class="text-box">
+      <mj-column padding="3.34%">
+        <mj-text>
+          <h2 class="white">Lorem ipsum dolor sit amet consectetur</h2>
+          <h5 class="white">Lorem ipsum dolor sit </h5>
+          <p class="white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor. Lorem ipsum.</p>
+        </mj-text>
+        <mj-button css-class="ghostbtn" border="1px #009CDE solid" color="#0076A8" background-color="#FFFFFF" href="https://www.strayer.edu?elqTrackId=&elqTrack=true" align="left"> Active state </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- END 2.6 Title Text CTA / left / slate -->
+    <!--  BEGIN 2.6 Title Text CTA / left / black -->
+    <mj-section background-color="#212322" border-top="solid 12px #F3D03E" css-class="text-box">
+      <mj-column padding="3.34%">
+        <mj-text>
+          <h2 class="white">Lorem ipsum dolor sit amet consectetur</h2>
+          <h5 class="white">Lorem ipsum dolor sit </h5>
+          <p class="white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor. Lorem ipsum.</p>
+        </mj-text>
+        <mj-button css-class="ghostbtn" border="1px #009CDE solid" color="#0076A8" background-color="#FFFFFF" href="https://www.strayer.edu?elqTrackId=&elqTrack=true" align="left"> Active state </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- END 2.6 Title Text CTA / left / black -->
+    <!--  BEGIN 2.6a -->
+    <mj-section css-class="text-box">
+      <mj-column padding="3.34%">
+        <mj-text align="center">
+          <h2>Lorem ipsum dolor sit amet consectetur</h2>
+          <h5>Lorem ipsum dolor sit </h5>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor. Lorem ipsum.</p>
+        </mj-text>
+        <mj-button css-class="hovered" href="https://www.strayer.edu?elqTrackId=&elqTrack=true" align="center"> Active state </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- END 2.6a -->
+    <!--  BEGIN 2.6 Title Text CTA / center / gray -->
+    <mj-section background-color="#D9D9D9" css-class="text-box">
+      <mj-column padding="3.34%">
+        <mj-text align="center">
+          <h2>Lorem ipsum dolor sit amet consectetur</h2>
+          <h5>Lorem ipsum dolor sit </h5>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor. Lorem ipsum.</p>
+        </mj-text>
+        <mj-button css-class="hovered" href="https://www.strayer.edu?elqTrackId=&elqTrack=true" align="center"> Active state </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- END 2.6 Title Text CTA / center / gray -->
+    <!--  BEGIN 2.6 Title Text CTA / center / NSB -->
+    <mj-section background-color="#009CDE" css-class="text-box">
+      <mj-column padding="3.34%">
+        <mj-text align="center">
+          <h2 class="white">Lorem ipsum dolor sit amet consectetur</h2>
+          <h5 class="white">Lorem ipsum dolor sit </h5>
+          <p class="white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor. Lorem ipsum.</p>
+        </mj-text>
+        <mj-button css-class="ghostbtn" border="1px #009CDE solid" color="#0076A8" background-color="#FFFFFF" href="https://www.strayer.edu?elqTrackId=&elqTrack=true" align="center"> Active state </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- END 2.6 Title Text CTA / center / NSB -->
+    <!--  BEGIN 2.6 Title Text CTA / center / dark gray -->
+    <mj-section background-color="#75787B" css-class="text-box">
+      <mj-column padding="3.34%">
+        <mj-text align="center">
+          <h2 class="white">Lorem ipsum dolor sit amet consectetur</h2>
+          <h5 class="white">Lorem ipsum dolor sit </h5>
+          <p class="white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor. Lorem ipsum.</p>
+        </mj-text>
+        <mj-button css-class="ghostbtn" border="1px #009CDE solid" color="#0076A8" background-color="#FFFFFF" href="https://www.strayer.edu?elqTrackId=&elqTrack=true" align="center"> Active state </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- END 2.6 Title Text CTA / center / dark gray -->
+    <!--  BEGIN 2.6 Title Text CTA / center / slate -->
+    <mj-section background-color="#53565A" css-class="text-box">
+      <mj-column padding="3.34%">
+        <mj-text align="center">
+          <h2 class="white">Lorem ipsum dolor sit amet consectetur</h2>
+          <h5 class="white">Lorem ipsum dolor sit </h5>
+          <p class="white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor. Lorem ipsum.</p>
+        </mj-text>
+        <mj-button css-class="ghostbtn" border="1px #009CDE solid" color="#0076A8" background-color="#FFFFFF" href="https://www.strayer.edu?elqTrackId=&elqTrack=true" align="center"> Active state </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- END 2.6 Title Text CTA / center / slate -->
+    <!--  BEGIN 2.6 Title Text CTA / center / black -->
+    <mj-section background-color="#212322" border-top="solid 12px #F3D03E" css-class="text-box">
+      <mj-column padding="3.34%">
+        <mj-text align="center">
+          <h2 class="white">Lorem ipsum dolor sit amet consectetur</h2>
+          <h5 class="white">Lorem ipsum dolor sit </h5>
+          <p class="white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum tortor. Lorem ipsum.</p>
+        </mj-text>
+        <mj-button css-class="ghostbtn" border="1px #009CDE solid" color="#0076A8" background-color="#FFFFFF" href="https://www.strayer.edu?elqTrackId=&elqTrack=true" align="center"> Active state </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- END 2.6 Title Text CTA / center / black -->
+    <!-- Delete description -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="30px" />
+        <mj-text padding="10px 0px 0px 20px" font-size="10px" color="gray"><em>S-2.7 Text Over Image variations</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Delete description -->
+    <!-- S-2.7 Text over image CTA BEGIN -->
+    <mj-hero background-url="https://www.placehold.it/600x350" background-color="#D8D8D8" vertical-align="middle" mode="fixed-height" height="350px" background-height="350px" background-width="600px" padding="30px">
+      <mj-text padding="0% 3.34%" color="#FFFFFF" align="center">
+        <h2 class="white">Onsectetur adipiscing elit,<br class="mhidden" /> sed do eiusmod</h2><br />
+        <span style="font-size:16px;line-height:20px;">At vero accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti</span>
+        <p style="padding-top:10px;"><span class="textlink-hover-white"><a href="#?elqTrackId=&elqTrack=true"><span style="color:white;">Primary Text Link</span><img src="https://images.elqassets.strategiced.com/EloquaImages/clients/SEIEloqua/%7Beef3188e-219d-4a81-89bf-881428b1cfa9%7D_arrow_right_white_28x28.png" alt="" style="vertical-align:middle;padding-left: 5px;" /></a></span></p>
+      </mj-text>
+      <mj-button padding-top="25px" css-class="ghostbtn" href="https://www.strayer.edu" align="center" border="1px #009CDE solid" color="#0076A8" background-color="#FFFFFF"> Active state </mj-button>
+    </mj-hero>
+    <!-- S-2.7 Text over image CTA END -->
+    <!-- S-2.7 2-col Text over image / IRVING BEGIN -->
+    <mj-section padding="3.34%" background-url="https://images.elqassets.strategiced.com/EloquaImages/clients/SEIEloqua/%7B7adb7837-6320-499a-a09a-64a89d5a5c00%7D_75948_Tools_Irving_600x346.jpg" background-size="cover" background-repeat="no-repeat" background-color="#212322">
+      <mj-column vertical-align="middle" width="60%">
+        <mj-text color="#FFFFFF" align="left">
+          <h3 style="color:#FFFFFF;">Irving</h3>
+          <p>Meet Irving, Strayerís virtual teaching assistant. Irving has handled over 740,000 conversations with studentsósolving issues, removing roadblocks and optimizing learning with 24/7 availability.* Irving is always here&nbsp;to&nbsp;help.</p>
+          <p><span style="font-size:13px;line-height:18px;"><em>*Data as of January 2020</em></span></p>
+          <p><span class="textlink-hover-white"><a href="https://www.strayer.edu/buzz/irving-strayer-chatbot-saves-students-time?MarketingCode=RE132"><span style="color:white;">Say hi to Irving</span><img src="https://images.elqassets.strategiced.com/EloquaImages/clients/SEIEloqua/%7Beef3188e-219d-4a81-89bf-881428b1cfa9%7D_arrow_right_white_28x28.png" alt="" style="vertical-align:middle;padding-left: 5px;" /></a></span></p>
+        </mj-text>
+      </mj-column>
+      <mj-column vertical-align="middle" width="40%">
+      </mj-column>
+    </mj-section>
+    <!-- S-2.7 2-col Text over image / IRVING END-->
+    <!-- Delete description -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="30px" />
+        <mj-text padding="10px 0px 0px 20px" font-size="10px" color="gray"><em>S-2.9 Testimonial/Quote</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Delete description -->
+    <!-- S-2.9 Testimonial/Quote/CTABEGIN -->
+    <mj-section background-url="https://images.elqassets.strategiced.com/EloquaImages/clients/SEIEloqua/%7B3f49babb-60c9-47d5-a8c0-44a788eeb2b4%7D_quote_442x113.png" background-repeat="no-repeat" css-class="background-image" background-size="422px">
+      <mj-column width="17%">
+        <!-- column spacer -->
+      </mj-column>
+      <mj-column width="80%" padding-top="25px">
+        <mj-text>"Paying for your degree is straightforward at Strayer. Like how you can save up to 25% on the cost of your bachelorís or master's degree with the Strayer Graduation Fund." <div style="font-weight:bold;padding-top:15px;">óJane Doe, Strayer Alumni</div>
+        </mj-text>
+      </mj-column>
+      <mj-column width="3%">
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding-top="15px">
+        <mj-text align="center">
+          <h1><span class="blue">Onsectetur adipiscing</span>
+            <br /> elit, sed do eiusmod</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--S-2.9 Testimonial/Quote/CTA END -->
+    <!-- Delete description -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="30px" />
+        <mj-text padding="10px 0px 0px 20px" font-size="10px" color="gray"><em>S-3.8 Support variations</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Delete description -->
+    <!-- S-3.8 Support / AO Photo / White BEGIN -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://images.elqassets.strategiced.com/EloquaImages/clients/SEIEloqua/%7Bd87b3bfa-c16f-46fd-a931-d232512f44ae%7D_75948_applynow_142x142.png" width="142px" align="center"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="80%">
+        <mj-text align="center">
+          <h3>Ready to take the next step?</h3>Your admissions officer is here to guide you through every step of the process, from completing your application to choosing your concentration.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button css-class="hovered" border="1px #009CDE solid" href="https://application.strayer.edu/" align="center" padding="10px 10px 30px"> Apply Now </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- S-3.8 Support / AO Photo / White END -->
+    <!-- S-3.8 support / AO Photo / Gray BEGIN -->
+    <mj-section background-color="#F0F0EF">
+      <mj-column>
+        <mj-image align="center" width="142px" src="https://images.elqassets.strategiced.com/EloquaImages/clients/SEIEloqua/%7Bd87b3bfa-c16f-46fd-a931-d232512f44ae%7D_75948_applynow_142x142.png" href="https://application.strayer.edu/" alt="smiling Strayer Admissions Officer"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F0F0EF">
+      <mj-column width="80%">
+        <mj-text align="center">
+          <h3>Ready to take the next&nbsp;step?</h3>Your admissions officer is here to guide you through every step of the process, from completing your application to choosing your&nbsp;concentration.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F0F0EF" padding="3.34%">
+      <mj-column>
+        <mj-button css-class="ghostbtn buttoncenter" border="1px #009CDE solid" color="#0076A8" background-color="#FFFFFF" href="https://application.strayer.edu/" align="center" padding="10px 10px 20px"> Apply Today </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- S-3.8 Support / AO Photo / Gray END -->
+    <!-- S-3.8 Support / icon BEGIN -->
+    <mj-section padding-top="10px" background-size="55px" background-color="#212322" background-url="https://www.capella.edu/content/dam/capella/email/2020/strayer/apply-pointing-white.png" background-repeat="no-repeat" background-position="center bottom">
+      <mj-column>
+        <mj-text height="60px"></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#212322">
+      <mj-column width="80%" padding="10px 0 20px">
+        <mj-text align="center" color="#ffffff">
+          <h3 class="white">Ready to take the next step?</h3>
+          <p>Your admissions officer is here to guide you through every step of the process, from completing your application to choosing your concentration.</p>
+          <p style="padding-top:10px;"><span class="textlink-hover-white"><a href="https://application.strayer.edu/"><span style="color:white;">Apply Today</span><img src="https://images.elqassets.strategiced.com/EloquaImages/clients/SEIEloqua/%7Beef3188e-219d-4a81-89bf-881428b1cfa9%7D_arrow_right_white_28x28.png" alt="" style="vertical-align:middle;padding-left: 5px;" /></a></span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- S-3.8 Support / icon END -->
+    <!-- Delete description -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="30px" />
+        <mj-text padding="10px 0px 0px 20px" font-size="10px" color="gray"><em>S-4.4 Referral variations</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Delete description -->
+    <!-- S-4.4 Referral / yellow box  -->
+    <mj-section>
+      <mj-group background-color="#F3D03E">
+        <mj-column background-color="#F3D03E" border-bottom="solid 8px #75787B" width="34%" vertical-align="bottom">
+          <mj-image src="https://www.capella.edu/content/dam/capella/email/2020/strayer/ReferralScholarship_S.png" href="" alt="Referral" height="58px" width="69px" align="center" padding="0 0 25px 31px"></mj-image>
+        </mj-column>
+        <mj-column background-color="#F3D03E" border-bottom="solid 8px #75787B" width="66%" padding-top="15px">
+          <mj-text padding-bottom="26px" color="#75787B" font-size="14px"> Refer your friends and they could save $500.<br /> <a href="" style="font-weight:bold; text-decoration:underline; color:#75787B;">Refer&nbsp;a friend</a>.</mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-column border-bottom="solid 29px #75787B" width="50%" vertical-align="bottom" css-class="mhidden">
+      </mj-column>
+    </mj-section>
+    <!--S-4.4 Referral / yellow box  -->
+    <!-- S-4.4 Referral / blue bar  -->
+    <mj-section padding="0">
+      <mj-column padding="0" vertical-align="bottom" width="23%" css-class="referral mhidden">
+        <mj-image src="https://www.capella.edu/content/dam/capella/email/2020/strayer/referral-1.png" href="" alt="Referral" align="right"></mj-image>
+      </mj-column>
+      <mj-column background-color="#FFFFFF" vertical-align="bottom" width="77%">
+        <mj-text color="#FFFFFF" font-size="14px"></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column padding="0" width="23%" vertical-align="top" background-color="#009CDE" css-class="referral mhidden">
+        <mj-image src="https://www.capella.edu/content/dam/capella/email/2020/strayer/referral-2.png" href="" alt="Referral" align="right"></mj-image>
+      </mj-column>
+      <mj-column background-color="#009CDE" vertical-align="bottom" width="77%">
+        <mj-text color="#FFFFFF" font-size="14px"> Refer your friends and they could save $500. <a href="" style="font-weight:bold; text-decoration:underline; color:#FFFFFF;">Refer&nbsp;a friend</a>.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END S-4.4 Referral / blue bar  -->
+    <!-- Delete description -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="30px" />
+        <mj-text padding="10px 0px 0px 20px" font-size="10px" color="gray"><em>S-1.8 Footer variations</em></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Delete description -->
+    <!-- S-1.8 Footer - White BEGIN -->
+    <mj-section padding="0">
+      <mj-column width="85%">
+        <mj-divider border-width="1px" border-color="lightgray" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFFFFF" padding-top="2%" padding-bottom="2%">
+      <mj-column>
+        <mj-social padding-left="2%" padding-right="2%">
+          <mj-social-element href="https://twitter.com/StrayerU" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_twitter_onyx.png" alt="Twitter icon"></mj-social-element>
+          <mj-social-element href="https://www.facebook.com/StrayerUniversity" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_facebook_onyx.png" alt="Facebook icon"></mj-social-element>
+          <mj-social-element href="https://www.linkedin.com/school/11790/" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_linkedin_onyx.png" alt="LinkedIn icon"></mj-social-element>
+          <mj-social-element href="https://www.instagram.com/strayeruniversity" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_instagram_onyx.png" alt="Instagram icon"></mj-social-element>
+          <mj-social-element href="https://www.youtube.com/StrayerUniversity" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_youtube_onyx.png" alt="YouTube icon"></mj-social-element>
+        </mj-social>
+        <mj-navbar>
+          <mj-navbar-link padding="14px 4%" href="https://www.strayer.edu/privacy-policy"><span style="text-transform: capitalize;"><u>Privacy Policy</u></span></mj-navbar-link>
+          <mj-navbar-link padding="14px 4%" href="https://www.strayer.edu/contact-us"><span style="text-transform: capitalize;"><u>Contact Us</u></span></mj-navbar-link>
+          <mj-navbar-link padding="14px 4%" href="http://learning.strayeruniversity.edu/Global_Unsubscribe"><span style="text-transform: capitalize;"><u>Unsubscribe</u></span></mj-navbar-link>
+        </mj-navbar>
+        <mj-text font-size="11px" line-height="16px" color="#443F3B" align="center"> Strayer University<br /> 1133 15th Street NW, Ste 200<br /> Washington, DC 20005 </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.8 Footer - White END -->
+    <!-- S-1.8 Footer - Slate BEGIN -->
+    <mj-section background-color="#53565A" padding-top="5%" padding-bottom="2%">
+      <mj-column>
+        <mj-social padding-left="2%" padding-right="2%">
+          <mj-social-element href="https://twitter.com/StrayerU" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_twitter_white.png" alt="Twitter icon"></mj-social-element>
+          <mj-social-element href="https://www.facebook.com/StrayerUniversity" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_facebook_white.png" alt="Facebook icon"></mj-social-element>
+          <mj-social-element href="https://www.linkedin.com/school/11790/" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_linkedin_white.png" alt="LinkedIn icon"></mj-social-element>
+          <mj-social-element href="https://www.instagram.com/strayeruniversity" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_instagram_white.png" alt="Instagram icon"></mj-social-element>
+          <mj-social-element href="https://www.youtube.com/StrayerUniversity" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_youtube_white.png" alt="YouTube icon"></mj-social-element>
+        </mj-social>
+        <mj-navbar>
+          <mj-navbar-link color="#FFFFFF" padding="14px 4%" href="https://www.strayer.edu/privacy-policy"><span style="text-transform: capitalize;"><u>Privacy Policy</u></span></mj-navbar-link>
+          <mj-navbar-link color="#FFFFFF" padding="14px 4%" href="https://www.strayer.edu/contact-us"><span style="text-transform: capitalize;"><u>Contact Us</u></span></mj-navbar-link>
+          <mj-navbar-link color="#FFFFFF" padding="14px 4%" href="http://learning.strayeruniversity.edu/Global_Unsubscribe"><span style="text-transform: capitalize;"><u>Unsubscribe</u></span></mj-navbar-link>
+        </mj-navbar>
+        <mj-text font-size="11px" line-height="16px" color="#FFFFFF" align="center"> Strayer University<br /> 1133 15th Street NW, Ste 200<br /> Washington, DC 20005 </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.8 Footer - Slate END -->
+    <!-- S-1.8 Footer - University Black BEGIN -->
+    <mj-section background-color="#262626" padding-top="5%" padding-bottom="2%">
+      <mj-column>
+        <mj-social padding-left="2%" padding-right="2%">
+          <mj-social-element href="https://twitter.com/StrayerU" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_twitter_white.png" alt="Twitter icon"></mj-social-element>
+          <mj-social-element href="https://www.facebook.com/StrayerUniversity" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_facebook_white.png" alt="Facebook icon"></mj-social-element>
+          <mj-social-element href="https://www.linkedin.com/school/11790/" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_linkedin_white.png" alt="LinkedIn icon"></mj-social-element>
+          <mj-social-element href="https://www.instagram.com/strayeruniversity" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_instagram_white.png" alt="Instagram icon"></mj-social-element>
+          <mj-social-element href="https://www.youtube.com/StrayerUniversity" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_youtube_white.png" alt="YouTube icon"></mj-social-element>
+        </mj-social>
+        <mj-navbar>
+          <mj-navbar-link color="#FFFFFF" padding="14px 4%" href="https://www.strayer.edu/privacy-policy"><span style="text-transform: capitalize;"><u>Privacy Policy</u></span></mj-navbar-link>
+          <mj-navbar-link color="#FFFFFF" padding="14px 4%" href="https://www.strayer.edu/contact-us"><span style="text-transform: capitalize;"><u>Contact Us</u></span></mj-navbar-link>
+          <mj-navbar-link color="#FFFFFF" padding="14px 4%" href="http://learning.strayeruniversity.edu/Global_Unsubscribe"><span style="text-transform: capitalize;"><u>Unsubscribe</u></span></mj-navbar-link>
+        </mj-navbar>
+        <mj-text font-size="11px" line-height="16px" color="#FFFFFF" align="center"> Strayer University<br /> 1133 15th Street NW, Ste 200<br /> Washington, DC 20005 </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.8 Footer -University Black END -->
+    <!-- S-1.8 Footer - Light Gray BEGIN -->
+    <mj-section background-color="#F0F0EF" padding-top="5%" padding-bottom="2%">
+      <mj-column>
+        <mj-social padding-left="2%" padding-right="2%">
+          <mj-social-element href="https://twitter.com/StrayerU" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_twitter_onyx.png" alt="Twitter icon"></mj-social-element>
+          <mj-social-element href="https://www.facebook.com/StrayerUniversity" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_facebook_onyx.png" alt="Facebook icon"></mj-social-element>
+          <mj-social-element href="https://www.linkedin.com/school/11790/" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_linkedin_onyx.png" alt="LinkedIn icon"></mj-social-element>
+          <mj-social-element href="https://www.instagram.com/strayeruniversity" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_instagram_onyx.png" alt="Instagram icon"></mj-social-element>
+          <mj-social-element href="https://www.youtube.com/StrayerUniversity" icon-padding="2px 9px" icon-size="28px" src="https://www.capella.edu/content/dam/capella/email/Logo/logo_youtube_onyx.png" alt="YouTube icon"></mj-social-element>
+        </mj-social>
+        <mj-navbar>
+          <mj-navbar-link padding="14px 4%" href="https://www.strayer.edu/privacy-policy"><span style="text-transform: capitalize;"><u>Privacy Policy</u></span></mj-navbar-link>
+          <mj-navbar-link padding="14px 4%" href="https://www.strayer.edu/contact-us"><span style="text-transform: capitalize;"><u>Contact Us</u></span></mj-navbar-link>
+          <mj-navbar-link padding="14px 4%" href="http://learning.strayeruniversity.edu/Global_Unsubscribe"><span style="text-transform: capitalize;"><u>Unsubscribe</u></span></mj-navbar-link>
+        </mj-navbar>
+        <mj-text font-size="11px" line-height="16px" color="#443F3B" align="center"> Strayer University<br /> 1133 15th Street NW, Ste 200<br /> Washington, DC 20005 </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.8 Footer - Light Gray END -->
+    <!-- S-1.8 Footer - Plain Text BEGIN -->
+    <mj-section padding="3.34% 3.34%">
+      <mj-column>
+        <mj-image src="http://images.learning.strayeruniversity.edu/EloquaImages/clients/StrayerEducation/%7B107fccbe-8f57-4fb2-bbf2-b8e4ab7e5e08%7D_strayer_logo_horizontal_440x100.png" width="151px" align="left" alt="Strayer University"></mj-image>
+        <mj-text font-size="11px" line-height="16px" color="#443F3B"> 1133 15th Street NW, Ste 200<br /> Washington, DC 20005 </mj-text>
+        <mj-text font-size="11px" line-height="16px"><a href="https://www.strayer.edu/privacy-policy">
+            <span style="color:#443F3B;font-weight:400;text-decoration:underline;"><u>Privacy Policy</u></span></a>&ensp;&ensp; <a href="http://learning.strayeruniversity.edu/Global_Unsubscribe"><span style="color:#443F3B;font-weight:400;text-decoration:underline;"><u>Unsubscribe</u></span></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- S-1.8 Footer - Plain Text End -->
+  </mj-body>
+</mjml>
